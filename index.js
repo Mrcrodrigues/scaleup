@@ -1,4 +1,4 @@
-# SCALE UP 
+# SCALE UP PROJECTS
 var mouse        = require('mouse-position')()
 var triangle     = require('a-big-triangle')
 var throttle     = require('frame-debounce')
